@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "12563918c250e430",
+    "type": "split",
+    "children": [
+      {
+        "id": "b39a3affb14daed0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "296021304239f700",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "efe34816310e281e",
+    "type": "split",
+    "children": [
+      {
+        "id": "10e53828ab0fbeed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ef5fa3c684f90a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d87c0c8aa9ea7c2d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "313fde2ea178531d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 446.5
+  },
+  "right": {
+    "id": "accdd38ce6c887e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "db67fd27560ebb6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3273be555adf6583",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ebb0857ceb96071a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a47b5d1497bca5a4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9d2e83f3f0a91c53",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "2ef5fa3c684f90a3",
+  "lastOpenFiles": [
+    "1 - Rough Notes/Drawings",
+    "2 - Full Notes/DSA 150 Neetcode/1. Contains Duplicate.md",
+    "1 - Rough Notes/Drawings/DSA Cooking.md",
+    "Untitled.canvas",
+    "2 - Full Notes/Japanese",
+    "2 - Full Notes/DSA 150 Neetcode/5. Top K Frequent Element.md",
+    "2 - Full Notes/DSA 150 Neetcode/4. Group Anagrams.md",
+    "2 - Full Notes/DSA 150 Neetcode/3. Two Sum.md",
+    "2 - Full Notes/DSA 150 Neetcode/2. Valid Anagram.md",
+    "6 - Templates/Problem-template.md",
+    "2 - Full Notes/DSA 150 Neetcode/Untitled.md",
+    "2 - Full Notes/DSA 150 Neetcode/Untitled 1.md",
+    "3 - Tags/arrays.md",
+    "3 - Tags/bucket sort.md",
+    "3 - Tags/hashmap.md",
+    "6 - Templates/Full Note.md",
+    "3 - Tags/hashset.md",
+    "create a link.md",
+    "Welcome.md",
+    "2 - Full Notes/DSA 150 Neetcode",
+    "2 - DSA 150 Neetcode/Untitled.md",
+    "6 - Templates",
+    "5 - Indexes",
+    "4 - Images/Pasted image 20250517222402.png",
+    "4 - Images",
+    "3 - Tags",
+    "2 - Full Notes",
+    "1 - Rough Notes"
+  ]
+}
