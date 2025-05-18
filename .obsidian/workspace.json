@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a44e55b7d170973b",
+        "id": "36c309609fb2da87",
         "type": "tabs",
         "children": [
           {
-            "id": "95e6d7aafec011ff",
+            "id": "821de283153fd5a3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2 - Full Notes/Japanese/Ordering Food.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Ordering Food"
             }
           }
         ]
@@ -162,8 +166,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2ef5fa3c684f90a3",
+  "active": "821de283153fd5a3",
   "lastOpenFiles": [
+    "6 - Templates/Full Note.md",
+    "6 - Templates/Japanese-Template.md",
+    "6 - Templates/Problem-Template.md",
+    "2 - Full Notes/Japanese/Ordering Food.md",
+    "2 - Full Notes/DSA 150 Neetcode/1. Contains Duplicate.md",
+    "4 - Images/Pasted image 20250518102040.png",
     "2 - Full Notes/DSA 150 Neetcode/11. Two Integer Sum II.md",
     "2 - Full Notes/DSA 150 Neetcode/10. Valid Palindrome.md",
     "2 - Full Notes/DSA 150 Neetcode/9. Longest Consecutive Sequence.md",
@@ -171,8 +181,6 @@
     "2 - Full Notes/DSA 150 Neetcode/5. Top K Frequent Element.md",
     "1 - Rough Notes/Drawings/DSA Cooking.md",
     "2 - Full Notes/DSA 150 Neetcode/7. Products of Array Except Self.md",
-    "2 - Full Notes/DSA 150 Neetcode/1. Contains Duplicate.md",
-    "4 - Images/Pasted image 20250518102040.png",
     "3 - Tags/prefix sum.md",
     "2 - Full Notes/DSA 150 Neetcode/6. Encode and Decode Strings.md",
     "3 - Tags/2 pointers.md",
@@ -182,12 +190,10 @@
     "2 - Full Notes/DSA 150 Neetcode/4. Group Anagrams.md",
     "2 - Full Notes/DSA 150 Neetcode/3. Two Sum.md",
     "2 - Full Notes/DSA 150 Neetcode/2. Valid Anagram.md",
-    "6 - Templates/Problem-template.md",
     "2 - Full Notes/DSA 150 Neetcode/Untitled 1.md",
     "3 - Tags/arrays.md",
     "3 - Tags/bucket sort.md",
     "3 - Tags/hashmap.md",
-    "6 - Templates/Full Note.md",
     "3 - Tags/hashset.md",
     "create a link.md",
     "Welcome.md",
