@@ -1,9 +1,12 @@
-{{date}} {{time}}
+**Date**: {{date}} {{time}}
 
-Status :
+**Topics**: {{topics}} 
 
-Tags :
+**Category**: #{{category}} 
 
-{{Title}}
+## Notes :
 
 
+
+
+## References :
