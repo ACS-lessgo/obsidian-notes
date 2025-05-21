@@ -1,65 +1,34 @@
+# Order Food - Japanese (Duolingo)
 
+## Vocabulary
+- すみません – Excuse me / Sorry (sumimasen)
+- メニュー – Menu (menyuu)
+- おねがいします – Please (onegai shimasu)
+- これ – This (kore)
+- それ – That (sore)
+- あれ – That over there (are)
+- いくら – How much? (ikura)
+- たべます – To eat (tabemasu)
+- のみます – To drink (nomimasu)
+- みず – Water (mizu)
+- コーヒー – Coffee (koohii)
+- ごはん – Cooked rice / Meal (gohan)
 
-> Duolingo Topic: e.g. "Ordering Food"
+## Grammar Points
+- ～を ください – "Please give me..." pattern.
+  - Example: コーヒーをください – Please give me a coffee.
+- Particles:
+  - を (wo) marks the direct object.
+  - は (wa) marks the topic.
 
-## 🗂️ Tags  
+## Sample Sentences
+- すみません、メニューをください。– Excuse me, can I have the menu?
+- みずをおねがいします。– Water, please.
+- ごはんをたべます。– I eat rice.
 
-#japanese #hiragana #katakana #duolingo #beginner
+## Notes & Tips
+- Use すみません to get someone's attention politely in a restaurant.
+- おねがいします is more polite than just saying ください.
+- Pay attention to particles を and は – they’re very common and important.
 
----
-
-## ✏️ Kana Practice
-
-### Hiragana
-| Kana | Pronunciation | Mnemonic / Example |
-|------|----------------|---------------------|
-| あ   | a              | Looks like an apple stem 🍎 |
-| た   | ta             | Like TA-ko (octopus) |
-
-### Katakana
-| Kana | Pronunciation | Mnemonic / Example      |
-| ---- | ------------- | ----------------------- |
-| ア    | a             | More angular あ          |
-| タ    | ta            | Similar to た but blocky |
-
----
-
-## 🍣 Vocabulary
-
-| Word (Kana) | Kanji (if any) | Meaning | Pronunciation |
-|-------------|----------------|---------|----------------|
-| ごはん       | ご飯           | rice / meal | gohan |
-| みず         | 水             | water        | mizu |
-| たべます     | 食べます       | to eat       | tabemasu |
-
----
-
-## 🗣️ Phrases & Sentences
-
-| Japanese | Romaji | English |
-|----------|--------|---------|
-| ごはんをください。 | gohan o kudasai | Rice, please. |
-| みずをのみます。 | mizu o nomimasu | I drink water. |
-
----
-
-## 💡 Notes
-
-- “～をください” = “Please give me ~”  
-- Particles like "を" mark the object (what you're ordering)
-
----
-
-## 🔁 Practice Checklist
-
-- [ ] Practiced writing kana by hand  
-- [x] Read each word out loud  
-- [ ] Tried saying sentences without looking  
-- [ ] Added vocab to flashcards or app  
-
----
-
-## 📌 Extra Tip
-
-- Link this note to a kana reference:  
-  `[[Hiragana Chart]]`, `[[Katakana Chart]]`
+## Completed on: 2025-05-21
