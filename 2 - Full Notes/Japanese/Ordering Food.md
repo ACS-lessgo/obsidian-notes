@@ -1,34 +1,34 @@
 # Order Food - Japanese (Duolingo)
 
 ## Vocabulary
-- すみません – Excuse me / Sorry (sumimasen)
-- メニュー – Menu (menyuu)
-- おねがいします – Please (onegai shimasu)
-- これ – This (kore)
-- それ – That (sore)
-- あれ – That over there (are)
-- いくら – How much? (ikura)
-- たべます – To eat (tabemasu)
-- のみます – To drink (nomimasu)
-- みず – Water (mizu)
-- コーヒー – Coffee (koohii)
-- ごはん – Cooked rice / Meal (gohan)
+- **sumimasen** – excuse me / sorry
+- **menyuu** – menu
+- **onegai shimasu** – please (polite)
+- **kore** – this
+- **sore** – that (near listener)
+- **are** – that (over there)
+- **ikura** – how much?
+- **tabemasu** – to eat
+- **nomimasu** – to drink
+- **mizu** – water
+- **koohii** – coffee
+- **gohan** – rice / meal
 
 ## Grammar Points
-- ～を ください – "Please give me..." pattern.
-  - Example: コーヒーをください – Please give me a coffee.
-- Particles:
-  - を (wo) marks the direct object.
-  - は (wa) marks the topic.
+- **~ o kudasai** – "please give me ~"
+  - Example: *koohii o kudasai* – please give me coffee
+- **Particles:**
+  - **o (を)** – marks the thing you're acting on (like coffee)
+  - **wa (は)** – marks the topic of the sentence
 
 ## Sample Sentences
-- すみません、メニューをください。– Excuse me, can I have the menu?
-- みずをおねがいします。– Water, please.
-- ごはんをたべます。– I eat rice.
+- **sumimasen, menyuu o kudasai** – excuse me, the menu please
+- **mizu o onegai shimasu** – water, please (more polite)
+- **gohan o tabemasu** – I eat rice
 
 ## Notes & Tips
-- Use すみません to get someone's attention politely in a restaurant.
-- おねがいします is more polite than just saying ください.
-- Pay attention to particles を and は – they’re very common and important.
+- **sumimasen** = super useful; get someone’s attention politely
+- **onegai shimasu** is more formal/polite than **kudasai**
+- You’ll use **o** and **wa** A LOT — worth getting comfy with!
 
 ## Completed on: 2025-05-21
