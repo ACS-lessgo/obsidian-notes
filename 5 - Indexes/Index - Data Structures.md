@@ -2,3 +2,4 @@
 - [[hashset]] [[hashmap]]
 - [[stack]]
 - [[B+ Tree]]
+- [[binary search]]

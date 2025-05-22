@@ -11,10 +11,14 @@
             "id": "783feec82bdc2672",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2 - Full Notes/DSA 150 Neetcode/25. Search in Rotated Sorted Array.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "25. Search in Rotated Sorted Array"
             }
           }
         ]
@@ -162,9 +166,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2ef5fa3c684f90a3",
+  "active": "783feec82bdc2672",
   "lastOpenFiles": [
+    "2 - Full Notes/DSA 150 Neetcode/24. Find Minimum in Rotated Sorted Array.md",
+    "2 - Full Notes/DSA 150 Neetcode/25. Search in Rotated Sorted Array.md",
     "5 - Indexes/Index - Data Structures.md",
+    "2 - Full Notes/DSA 150 Neetcode/23. Koko Eating Bananas.md",
+    "2 - Full Notes/DSA 150 Neetcode/22. Search a 2D Matrix.md",
+    "2 - Full Notes/DSA 150 Neetcode/21. Binary Search.md",
+    "3 - Tags/binary search.md",
     "2 - Full Notes/Gen AI/1. LLM's.md",
     "2 - Full Notes/System Design/Database Indexing/4. B+ Tree.md",
     "2 - Full Notes/Japanese/1. Ordering Food.md",
@@ -185,12 +195,6 @@
     "2 - Full Notes/DSA 150 Neetcode/14. Trapping Rain Water.md",
     "2 - Full Notes/DSA 150 Neetcode/13. Container With Most Water.md",
     "2 - Full Notes/DSA 150 Neetcode/12. 3 Sum.md",
-    "2 - Full Notes/DSA 150 Neetcode/10. Valid Palindrome.md",
-    "2 - Full Notes/DSA 150 Neetcode/9. Longest Consecutive Sequence.md",
-    "2 - Full Notes/DSA 150 Neetcode/8. Valid Sudoku.md",
-    "2 - Full Notes/DSA 150 Neetcode/7. Products of Array Except Self.md",
-    "2 - Full Notes/DSA 150 Neetcode/6. Encode and Decode Strings.md",
-    "2 - Full Notes/DSA 150 Neetcode/5. Top K Frequent Element.md",
     "2 - Full Notes/Gen AI",
     "4 - Images/Pasted image 20250519195115.png",
     "4 - Images/Pasted image 20250519194908.png",
