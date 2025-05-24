@@ -8,16 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f42189f35e95c70a",
+            "id": "4a1cadb04cd10d41",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2 - Full Notes/DSA 150 Neetcode/32. Reverse Bits.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "32. Reverse Bits"
+            }
+          },
+          {
+            "id": "b2f893cd701f23f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Full Notes/DSA 150 Neetcode/32. Reverse Bits.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "32. Reverse Bits"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,8 +181,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2ef5fa3c684f90a3",
+  "active": "b2f893cd701f23f8",
   "lastOpenFiles": [
+    "5 - Indexes/Index - Data Structures.md",
+    "2 - Full Notes/DSA 150 Neetcode/32. Reverse Bits.md",
+    "2 - Full Notes/DSA 150 Neetcode/31. Counting Bits.md",
+    "2 - Full Notes/DSA 150 Neetcode/30. Number of One Bits.md",
+    "2 - Full Notes/DSA 150 Neetcode/29. Single Number.md",
+    "3 - Tags/bit manipulation.md",
+    "4 - Images/Pasted image 20250524155844.png",
     "2 - Full Notes/DSA 150 Neetcode/26. Largest Rectangle In Histogram.md",
     "2 - Full Notes/DSA 150 Neetcode/28. Median of Two Sorted Arrays.md",
     "2 - Full Notes/DSA 150 Neetcode/27. Time Based Key-Value Store.md",
@@ -173,7 +199,6 @@
     "2 - Full Notes/DSA 150 Neetcode/22. Search a 2D Matrix.md",
     "2 - Full Notes/DSA 150 Neetcode/21. Binary Search.md",
     "2 - Full Notes/DSA 150 Neetcode/20. Car Fleet.md",
-    "5 - Indexes/Index - Data Structures.md",
     "2 - Full Notes/DSA 150 Neetcode/19. Daily Temperatures.md",
     "2 - Full Notes/DSA 150 Neetcode/16. Min Stack.md",
     "1 - Rough Notes/Drawings/DSA Cooking.md",
@@ -187,11 +212,6 @@
     "6 - Templates/Problem-Template.md",
     "4 - Images/Pasted image 20250521232233.png",
     "2 - Full Notes/System Design/Database Indexing/1. Data Pages.md",
-    "2 - Full Notes/System Design/Database Indexing/3. Indexing.md",
-    "2 - Full Notes/System Design/Database Indexing/2. Data Block.md",
-    "3 - Tags/b+ tree.md",
-    "2 - Full Notes/DSA 150 Neetcode/18. Generate Parentheses.md",
-    "2 - Full Notes/DSA 150 Neetcode/17. Evaluate Reverse Polish Notation.md",
     "2 - Full Notes/Gen AI",
     "4 - Images/Pasted image 20250519195115.png",
     "4 - Images/Pasted image 20250519194908.png",
@@ -209,7 +229,6 @@
     "2 - Full Notes/DSA 150 Neetcode",
     "6 - Templates",
     "5 - Indexes",
-    "4 - Images/Pasted image 20250517222402.png",
     "4 - Images"
   ]
 }
