@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Full Notes/DSA 150 Neetcode/32. Reverse Bits.md",
+                "file": "2 - Full Notes/DSA 150 Neetcode/33. Missing Number.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "32. Reverse Bits"
+              "title": "33. Missing Number"
             }
           }
         ],
@@ -183,8 +183,9 @@
   },
   "active": "b2f893cd701f23f8",
   "lastOpenFiles": [
-    "5 - Indexes/Index - Data Structures.md",
     "2 - Full Notes/DSA 150 Neetcode/32. Reverse Bits.md",
+    "2 - Full Notes/DSA 150 Neetcode/33. Missing Number.md",
+    "5 - Indexes/Index - Data Structures.md",
     "2 - Full Notes/DSA 150 Neetcode/31. Counting Bits.md",
     "2 - Full Notes/DSA 150 Neetcode/30. Number of One Bits.md",
     "2 - Full Notes/DSA 150 Neetcode/29. Single Number.md",
@@ -211,7 +212,6 @@
     "2 - Full Notes/DSA 150 Neetcode/11. Two Integer Sum II.md",
     "6 - Templates/Problem-Template.md",
     "4 - Images/Pasted image 20250521232233.png",
-    "2 - Full Notes/System Design/Database Indexing/1. Data Pages.md",
     "2 - Full Notes/Gen AI",
     "4 - Images/Pasted image 20250519195115.png",
     "4 - Images/Pasted image 20250519194908.png",
