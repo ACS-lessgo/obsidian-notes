@@ -4,3 +4,4 @@
 - [[B+ Tree]]
 - [[binary search]]
 - [[bit manipulation]]
+- [[linked list]]
