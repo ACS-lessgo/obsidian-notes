@@ -4,51 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3c2eee9c886e6d32",
+        "id": "e1afbedc53625ad5",
         "type": "tabs",
         "children": [
           {
-            "id": "aa4514662c2db69b",
+            "id": "634158a8ac5e77cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Full Notes/DSA 150 Neetcode/51. Merge K Sorted Lists.md",
+                "file": "2 - Full Notes/DSA 150 Neetcode/41. Minimum Window Substring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "51. Merge K Sorted Lists"
-            }
-          },
-          {
-            "id": "3d1f4ecba6cf5b83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Full Notes/DSA 150 Neetcode/52. Reverse Nodes In K Group.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "52. Reverse Nodes In K Group"
-            }
-          },
-          {
-            "id": "b72ad87742d967e8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "1 - Rough Notes/Drawings/DSA Cooking.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "DSA Cooking"
+              "title": "41. Minimum Window Substring"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,11 +166,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3d1f4ecba6cf5b83",
+  "active": "634158a8ac5e77cf",
   "lastOpenFiles": [
-    "1 - Rough Notes/Drawings/DSA Cooking.md",
-    "2 - Full Notes/DSA 150 Neetcode/52. Reverse Nodes In K Group.md",
+    "2 - Full Notes/DSA 150 Neetcode/35. Reverse Integer.md",
+    "2 - Full Notes/DSA 150 Neetcode/32. Reverse Bits.md",
+    "2 - Full Notes/DSA 150 Neetcode/34. Sum of Two Integers.md",
+    "2 - Full Notes/DSA 150 Neetcode/26. Largest Rectangle In Histogram.md",
     "2 - Full Notes/DSA 150 Neetcode/51. Merge K Sorted Lists.md",
+    "2 - Full Notes/DSA 150 Neetcode/52. Reverse Nodes In K Group.md",
+    "1 - Rough Notes/Drawings/DSA Cooking.md",
     "2 - Full Notes/DSA 150 Neetcode/50. LRU Cache.md",
     "3 - Tags/priority queue.md",
     "2 - Full Notes/DSA 150 Neetcode/49. Find the Duplicate Number.md",
@@ -219,10 +196,6 @@
     "2 - Full Notes/DSA 150 Neetcode/39. Permutation in String.md",
     "2 - Full Notes/DSA 150 Neetcode/36. Best Time to Buy and Sell Stock.md",
     "2 - Full Notes/DSA 150 Neetcode/37. Longest Substring Without Repeating Characters.md",
-    "2 - Full Notes/DSA 150 Neetcode/38. Longest Repeating Character Replacement.md",
-    "3 - Tags/sliding window.md",
-    "2 - Full Notes/DSA 150 Neetcode/28. Median of Two Sorted Arrays.md",
-    "2 - Full Notes/DSA 150 Neetcode/35. Reverse Integer.md",
     "4 - Images/Pasted image 20250524155844.png",
     "4 - Images/Pasted image 20250523175927.png",
     "4 - Images/Pasted image 20250521232233.png",
