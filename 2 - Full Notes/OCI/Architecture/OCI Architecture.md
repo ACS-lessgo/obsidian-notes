@@ -6,7 +6,7 @@
 
 ## Notes :
 
-
+![[Pasted image 20250926214944.png]]
 
 
 ## References :
