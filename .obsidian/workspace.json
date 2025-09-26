@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "60aa77c6b8bb065b",
+        "id": "750cf216b6dfca93",
         "type": "tabs",
         "children": [
           {
-            "id": "0e0e4d04964ae8ea",
+            "id": "06deac8a2428bb1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Full Notes/OCI/Networking/Load Balancer.md",
+                "file": "2 - Full Notes/OCI/Architecture/Storage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Load Balancer"
+              "title": "Storage"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 304.5
   },
   "right": {
     "id": "accdd38ce6c887e2",
@@ -168,28 +167,34 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0e0e4d04964ae8ea",
+  "active": "2ef5fa3c684f90a3",
   "lastOpenFiles": [
-    "4 - Images/Pasted image 20250926115830.png",
-    "4 - Images/Pasted image 20250926112227.png",
+    "2 - Full Notes/OCI/Architecture/OCI Architecture.md",
+    "2 - Full Notes/OCI/Architecture/Storage.md",
+    "2 - Full Notes/OCI/Identity and Access Management/Untitled.md",
+    "2 - Full Notes/OCI/Compute/Oracle Container Engine.md",
+    "4 - Images/Pasted image 20250926164442.png",
+    "4 - Images/Pasted image 20250926163535.png",
+    "4 - Images/Pasted image 20250926163254.png",
+    "4 - Images/Pasted image 20250926162932.png",
+    "4 - Images/Pasted image 20250926162816.png",
+    "2 - Full Notes/OCI/Compute/Compute.md",
+    "3 - Tags/compute.md",
+    "2 - Full Notes/OCI/Compute/Create a Web server instance.md",
+    "4 - Images/Pasted image 20250926162559.png",
+    "4 - Images/Pasted image 20250926162536.png",
+    "4 - Images/Pasted image 20250926162504.png",
+    "4 - Images/Pasted image 20250926162408.png",
+    "4 - Images/Pasted image 20250926160848.png",
+    "2 - Full Notes/OCI/Networking/Load Balancer.md",
+    "2 - Full Notes/OCI/Compute",
     "2 - Full Notes/OCI/Networking/VCN Introduction.md",
-    "4 - Images/Pasted image 20250926105848.png",
-    "4 - Images/Pasted image 20250926105221.png",
-    "4 - Images/Pasted image 20250527215808.png",
-    "4 - Images/Pasted image 20250523175927.png",
-    "4 - Images/Pasted image 20250519194908.png",
-    "4 - Images/Pasted image 20250517222402.png",
-    "4 - Images/Pasted image 20250518102040.png",
-    "4 - Images/Pasted image 20250926111646.png",
-    "4 - Images/Pasted image 20250926111943.png",
     "2 - Full Notes/OCI/Networking/VCN Security.md",
     "2 - Full Notes/OCI/Networking/VCN Routing.md",
-    "2 - Full Notes/OCI/Networking/Load Balancer.md",
     "3 - Tags/oci-networking.md",
-    "2 - Full Notes/OCI/Identity and Access Management/Tenancy Setup.md",
+    "2 - Full Notes/OCI/IAM/Tenancy Setup.md",
     "2 - Full Notes/OCI/Networking",
-    "2 - Full Notes/OCI/Architecture/OCI Architecture.md",
-    "2 - Full Notes/OCI/Identity and Access Management",
+    "2 - Full Notes/OCI/IAM",
     "3 - Tags/oci-architecture.md",
     "2 - Full Notes/System Design/Database Indexing/3. Indexing.md",
     "3 - Tags/oci.md",
@@ -206,16 +211,10 @@
     "2 - Full Notes/DSA 150 Neetcode/19. Daily Temperatures.md",
     "2 - Full Notes/DSA 150 Neetcode/20. Car Fleet.md",
     "2 - Full Notes/DSA 150 Neetcode/42. Reverse Linked List.md",
-    "2 - Full Notes/DSA 150 Neetcode/28. Median of Two Sorted Arrays.md",
-    "2 - Full Notes/DSA 150 Neetcode/8. Valid Sudoku.md",
-    "2 - Full Notes/DSA 150 Neetcode/7. Products of Array Except Self.md",
-    "2 - Full Notes/DSA 150 Neetcode/5. Top K Frequent Element.md",
-    "2 - Full Notes/DSA 150 Neetcode/4. Group Anagrams.md",
     "2 - Full Notes/Gen AI",
     "2 - Full Notes/System Design/Database Indexing",
     "2 - Full Notes/System Design",
     "1 - Rough Notes/Drawings",
-    "Untitled.canvas",
-    "2 - Full Notes/Japanese"
+    "Untitled.canvas"
   ]
 }

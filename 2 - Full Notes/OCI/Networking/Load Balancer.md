@@ -9,5 +9,12 @@
 ![[Pasted image 20250926112227.png]]
 
 ![[Pasted image 20250926115830.png]]
+
+
+
+### EXAMPLE
+
+![[Pasted image 20250926120016.png]]
+
 ## References :
  
