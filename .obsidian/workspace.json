@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Full Notes/OCI/Security/Security in OCI.md",
+                "file": "2 - Full Notes/OCI/Security/Encryption.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Security in OCI"
+              "title": "Encryption"
+            }
+          },
+          {
+            "id": "9785692dc744c8bc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -78,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "right": {
     "id": "accdd38ce6c887e2",
@@ -169,13 +180,17 @@
   },
   "active": "06deac8a2428bb1a",
   "lastOpenFiles": [
+    "4 - Images/Pasted image 20250926225655.png",
+    "4 - Images/Pasted image 20250926225406.png",
+    "4 - Images/Pasted image 20250926224854.png",
+    "2 - Full Notes/OCI/Security/Encryption.md",
+    "2 - Full Notes/OCI/Security/Security in OCI.md",
+    "4 - Images/Pasted image 20250926224317.png",
     "4 - Images/Pasted image 20250926220419.png",
     "4 - Images/Pasted image 20250926220243.png",
     "4 - Images/Pasted image 20250926215927.png",
     "4 - Images/Pasted image 20250926215507.png",
     "3 - Tags/oci-encryption.md",
-    "2 - Full Notes/OCI/Security/Encryption.md",
-    "2 - Full Notes/OCI/Security/Security in OCI.md",
     "3 - Tags/oci-security.md",
     "2 - Full Notes/OCI/Architecture/OCI Architecture.md",
     "2 - Full Notes/OCI/Security",
@@ -185,13 +200,9 @@
     "2 - Full Notes/OCI/Compute/Oracle Container Engine.md",
     "4 - Images/Pasted image 20250926164442.png",
     "4 - Images/Pasted image 20250926163535.png",
-    "4 - Images/Pasted image 20250926163254.png",
-    "4 - Images/Pasted image 20250926162932.png",
-    "4 - Images/Pasted image 20250926162816.png",
     "2 - Full Notes/OCI/Compute/Compute.md",
     "3 - Tags/compute.md",
     "2 - Full Notes/OCI/Compute/Create a Web server instance.md",
-    "4 - Images/Pasted image 20250926162559.png",
     "2 - Full Notes/OCI/Networking/Load Balancer.md",
     "2 - Full Notes/OCI/Compute",
     "2 - Full Notes/OCI/Networking/VCN Introduction.md",
