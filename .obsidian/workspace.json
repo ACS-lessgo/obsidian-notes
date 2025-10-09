@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Full Notes/Gen AI/3. Inference Process.md",
+                "file": "2 - Full Notes/Gen AI/2. Transformers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Inference Process"
+              "title": "2. Transformers"
             }
           },
           {
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Full Notes/Gen AI/3. Inference Process.md",
+                "file": "2 - Full Notes/Gen AI/2. Transformers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3. Inference Process"
+              "title": "Backlinks for 2. Transformers"
             }
           },
           {
